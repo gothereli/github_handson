@@ -11,7 +11,7 @@ print("Hello world!")
 # 2. Calculate pi
 
 
-
+# this part is good!!
 # 3. Square function
 # adapted from https://hbctraining.github.io/Intro-to-R/lessons/03_introR-functions-and-arguments.html#user-defined-functions
 # and https://www.r-bloggers.com/how-to-write-and-debug-an-r-function/

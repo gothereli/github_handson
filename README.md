@@ -8,10 +8,10 @@ Our code will demonstrate the different ways it is possible to calculate the val
 
 #Installation
 
-##Usage
+## Usage
 
 
-##Getting help
+## Getting help
 
 
 ## Contributors
